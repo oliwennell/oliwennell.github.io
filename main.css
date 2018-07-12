@@ -1,0 +1,67 @@
+
+body {
+    font-size: 200%;
+}
+
+h1 {
+    margin-top: 50px;
+    font-size: 400%;
+}
+
+p {
+    margin: 10px;
+}
+
+a {
+    font-weight: bold;
+}
+
+.blurb {
+    font-style: italic;
+}
+
+.blurb-intro {
+    font-size: 150%;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.mugshot {
+    width: 200px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 70px;
+    border-radius: 50%;
+    text-decoration: none;
+    margin: 5px 2px;
+    text-align: center;
+    
+    background: black;
+    color: white;
+}
+
+.fa:active {
+    text-decoration: none;
+}
+
+.fa:link {
+    text-decoration: none;
+}
+
+.fa:visited {
+    text-decoration: none;
+}
+
+.fa:hover {
+    text-decoration: none;
+    opacity: 0.7;        
+}
+
+.fa:active {
+    text-decoration: none;
+}
