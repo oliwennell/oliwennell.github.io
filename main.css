@@ -1,15 +1,12 @@
 
 body {
-    /* font-family: "Courier New", Courier, monospace; */
     font-size: 210%;    
-    /*background-color: #49b75e;*/
-    /* background-color: black;
-    color: white; */
+    margin: 5%;
 }
 
 h1 {
-    margin-top: 75px;
-    font-size: 350%;
+    white-space: nowrap;
+    font-size: 300%;
 }
 
 p {
